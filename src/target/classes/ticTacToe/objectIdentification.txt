@@ -1,0 +1,14 @@
+1. player
+
+Name
+Initial Piece
+
+
+2. Pieces
+color
+shape
+
+
+3.Game Board
+
+board
